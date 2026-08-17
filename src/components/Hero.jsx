@@ -10,11 +10,9 @@ function Hero() {
   return (
     <section
       id="top"
-      className="relative overflow-hidden min-h-[640px] md:min-h-[760px] flex items-center pt-24 pb-14"
+      className="relative overflow-hidden min-h-[560px] sm:min-h-[640px] md:min-h-[760px] flex items-center pt-24 pb-14 bg-cover bg-[position:78%_58%] md:bg-[position:center_62%]"
       style={{
         backgroundImage: `url(${heroBg})`,
-        backgroundSize: 'cover',
-        backgroundPosition: 'center 62%',
       }}
     >
       <div

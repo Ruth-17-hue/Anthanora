@@ -61,12 +61,9 @@ function FeaturedProduct() {
           <div className="flex flex-wrap items-center gap-6">
             <span className="text-2xl font-semibold text-ink">&#8358;6,000</span>
             <a href="#" className="btn-primary !normal-case">
-              Add to Cart
+              Buy Now
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8">
-                <path d="M6 6h15l-1.5 9h-12z" />
-                <path d="M6 6L4.5 2H2" />
-                <circle cx="9" cy="20" r="1.4" fill="currentColor" stroke="none" />
-                <circle cx="18" cy="20" r="1.4" fill="currentColor" stroke="none" />
+                <path d="M5 12h14M13 6l6 6-6 6" />
               </svg>
             </a>
             <a href="#" className="text-xs font-semibold tracking-wide uppercase text-ink hover:text-clay-dark transition-colors duration-300 inline-flex items-center gap-1">
