@@ -1,4 +1,4 @@
-import lavender from '../assets/products/lavender.jpg'
+import lavender from '../assets/products/priestly-lavender.png'
 
 const features = [
   {
@@ -25,7 +25,7 @@ function FeaturedProduct() {
       <div className="container-brand flex flex-col md:flex-row items-start gap-10 md:gap-14">
         <div
           className="order-2 md:order-1 w-full aspect-square md:w-[440px] md:h-[440px] shrink-0 rounded-2xl overflow-hidden"
-          style={{ backgroundColor: '#d9c8e6' }}
+          style={{ backgroundColor: '#f4ecdd' }}
         >
           <img
             src={lavender}
