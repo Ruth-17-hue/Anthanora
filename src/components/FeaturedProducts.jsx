@@ -13,7 +13,7 @@ const collections = [
     vignette: 'rgba(50,26,10,0.55)',
   },
   {
-    name: 'Priestly Ash',
+    name: 'Priestly Black',
     subtitle: 'African Black Soap',
     image: blackSoap,
     position: 'center 42%',

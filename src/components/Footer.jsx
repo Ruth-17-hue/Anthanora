@@ -123,7 +123,7 @@ function Footer() {
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" className="mt-0.5 shrink-0 text-gold">
                   <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" />
                 </svg>
-                +234 801 234 5678
+                +2348087187229
               </li>
               <li className="flex items-start gap-2.5 text-sm text-cream/65">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" className="mt-0.5 shrink-0 text-gold">
@@ -158,10 +158,10 @@ function Footer() {
 
           <div>
             <div className="flex items-center gap-2 mb-3">
-              <img src={logo} alt="AnthanOra" className="h-11 w-11 rounded-full object-cover" />
+              <img src={logo} alt="ANTHANORA" className="h-11 w-11 rounded-full object-cover" />
               <span className="flex flex-col leading-none">
                 <span className="font-display text-lg tracking-wide text-cream">
-                  Anthan<span className="text-gold">Ora</span>
+                  ANTHANORA
                 </span>
                 <span className="text-[9px] tracking-[0.3em] text-cream/50 mt-0.5">NATURALLY YOU</span>
               </span>
@@ -174,7 +174,7 @@ function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-cream/15 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-cream/55">
-          <p>&copy; {new Date().getFullYear()} AnthanOra. All Rights Reserved.</p>
+          <p>&copy; {new Date().getFullYear()} ANTHANORA. All Rights Reserved.</p>
           <p className="flex items-center gap-1.5">
             <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" className="text-gold">
               <path d="M12 2C9 8 4 9 4 15a8 8 0 0 0 16 0c0-6-5-7-8-13z" />

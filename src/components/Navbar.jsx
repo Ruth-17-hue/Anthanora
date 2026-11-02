@@ -31,10 +31,10 @@ function Navbar() {
     >
       <nav className="container-brand flex items-center justify-between py-3">
         <a href="#top" className="flex items-center gap-2">
-          <img src={logo} alt="AnthanOra" className="h-11 w-11 rounded-full object-cover" />
+          <img src={logo} alt="ANTHANORA" className="h-11 w-11 rounded-full object-cover" />
           <span className="hidden sm:flex flex-col leading-none">
             <span className="font-display text-lg tracking-wide text-cream">
-              Anthan<span className="text-gold">Ora</span>
+              ANTHANORA
             </span>
             <span className="text-[9px] tracking-[0.3em] text-cream/60 mt-0.5">NATURALLY YOU</span>
           </span>

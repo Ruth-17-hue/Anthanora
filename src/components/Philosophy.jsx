@@ -26,7 +26,7 @@ const pillars = [
     icon: <path d="M12 3c-2.5 3.5-6 7.4-6 11a6 6 0 0 0 12 0c0-3.6-3.5-7.5-6-11z" />,
   },
   {
-    title: 'Proudly Nigerian',
+    title: 'Proudly handcrafted by Nigerian Women!',
     copy: 'Locally crafted with passion, care, and attention to detail.',
     icon: (
       <path d="M12 4c1.4 1.4 2.8.6 4 0 .8 1.6 1.8 2 3.4 1.6-.4 1.6 0 2.6 1.6 3.4-1.4 1.2-1.4 2.6 0 4-1.6.8-2 1.8-1.6 3.4-1.6-.4-2.6 0-3.4 1.6-1.2-1.4-2.6-1.4-4 0-.8-1.6-1.8-2-3.4-1.6.4-1.6 0-2.6-1.6-3.4 1.4-1.2 1.4-2.6 0-4 1.6-.8 2-1.8 1.6-3.4 1.6.4 2.6 0 3.4-1.6z" />
@@ -34,7 +34,7 @@ const pillars = [
   },
   {
     title: 'Premium Quality',
-    copy: 'High quality standards in every product.',
+    copy: 'Carefully curated process to retain all beneficial nutrients.',
     icon: (
       <>
         <path d="M12 3l7 3.2v5.3c0 4.6-3 7.9-7 9.2-4-1.3-7-4.6-7-9.2V6.2z" />
@@ -44,7 +44,7 @@ const pillars = [
   },
   {
     title: 'Complete Care',
-    copy: 'Solutions for healthy, radiant and beautiful skin.',
+    copy: 'Head to toe solution to help you age agelessly.',
     icon: (
       <>
         <path d="M12 21c-3-2-5-4.5-5-7.5A5 5 0 0 1 12 8a5 5 0 0 1 5 5.5c0 3-2 5.5-5 7.5z" />
@@ -60,7 +60,7 @@ function Philosophy() {
     <section id="about" className="py-20 md:py-24 bg-cream">
       <div className="container-brand">
         <div className="text-center mb-14">
-          <h2 className="text-2xl md:text-3xl tracking-wide text-ink mb-3">Why Choose AnthanOra?</h2>
+          <h2 className="text-2xl md:text-3xl tracking-wide text-ink mb-3">Why Choose ANTHANORA?</h2>
           <div className="flex items-center justify-center gap-2" aria-hidden="true">
             <span className="h-px w-10 bg-gold/60" />
             <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" className="text-gold">
