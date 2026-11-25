@@ -6,12 +6,12 @@ import citronellaImg from '../assets/products/ing-citronella.jpg'
 const ingredients = [
   {
     name: 'Shea Butter',
-    copy: 'Deeply nourishes, hydrates and restores skin elasticity.',
+    copy: 'Carries antibacterial properties that help manage skin balance with natural vitamin A and E.',
     image: sheaImg,
   },
   {
-    name: 'Activated Charcoal',
-    copy: 'Draws out impurities, unclogs pores and promotes clear skin.',
+    name: 'Ash',
+    copy: 'Acts as an anti-aging agent, helping to remove dead skin cells and leaves the skin smooth and glowing.',
     image: charcoalImg,
   },
   {
@@ -20,8 +20,8 @@ const ingredients = [
     image: lavenderImg,
   },
   {
-    name: 'Citronella Oil',
-    copy: 'Naturally refreshing and helps keep skin clean and healthy.',
+    name: 'Citronella',
+    copy: 'Offers anti-inflammatory and anti-fungal properties that help heal the skin.',
     image: citronellaImg,
   },
 ]

@@ -1,7 +1,7 @@
 const pillars = [
   {
     title: 'Natural Ingredients',
-    copy: 'Made with carefully selected plant-based ingredients.',
+    copy: 'Made with carefully selected "naturally" plant-based ingredients.',
     icon: (
       <>
         <path d="M12 21V10" />
@@ -27,14 +27,14 @@ const pillars = [
   },
   {
     title: 'Proudly handcrafted by Nigerian Women!',
-    copy: 'Locally crafted with passion, care, and attention to detail.',
+    copy: 'Locally crafted by Women, not for trends but for Ageless Aging!',
     icon: (
       <path d="M12 4c1.4 1.4 2.8.6 4 0 .8 1.6 1.8 2 3.4 1.6-.4 1.6 0 2.6 1.6 3.4-1.4 1.2-1.4 2.6 0 4-1.6.8-2 1.8-1.6 3.4-1.6-.4-2.6 0-3.4 1.6-1.2-1.4-2.6-1.4-4 0-.8-1.6-1.8-2-3.4-1.6.4-1.6 0-2.6-1.6-3.4 1.4-1.2 1.4-2.6 0-4 1.6-.8 2-1.8 1.6-3.4 1.6.4 2.6 0 3.4-1.6z" />
     ),
   },
   {
     title: 'Premium Quality',
-    copy: 'Carefully curated process to retain all beneficial nutrients.',
+    copy: 'Carefully Curated by the elderly for ancient beauty rituals.',
     icon: (
       <>
         <path d="M12 3l7 3.2v5.3c0 4.6-3 7.9-7 9.2-4-1.3-7-4.6-7-9.2V6.2z" />
@@ -44,7 +44,7 @@ const pillars = [
   },
   {
     title: 'Complete Care',
-    copy: 'Head to toe solution to help you age agelessly.',
+    copy: 'All discerning skin types, desiring healthy, radiant skin that last!',
     icon: (
       <>
         <path d="M12 21c-3-2-5-4.5-5-7.5A5 5 0 0 1 12 8a5 5 0 0 1 5 5.5c0 3-2 5.5-5 7.5z" />

@@ -34,13 +34,13 @@ function Hero() {
           </p>
 
           <h1 className="text-4xl sm:text-5xl lg:text-[3.3rem] mb-6">
-            <span className="block text-cream">Pure Ingredients.</span>
+            <span className="block text-cream">Immortal Glow.</span>
             <span className="block text-gold">Powerful Results.</span>
           </h1>
 
           <p className="text-base md:text-lg text-cream/70 max-w-md mb-9 leading-relaxed">
-            Premium natural skincare made in Nigeria to nourish, protect and bring
-            out the best in your skin every day.
+            Premium natural skincare made in Nigeria to nourish, protect and
+            achieve the glow of the immortals. Face, Hair, Body and Soul.
           </p>
 
           <div className="flex flex-wrap items-center gap-4 mb-14">
